@@ -1,0 +1,28 @@
+---------------------prerequisites---------------------
+
+install postman
+install python
+install Postgresql
+create github repository
+
+create virtual env : 
+    python -m venv v_env  
+    v_env\Scripts\activate
+
+install django and django RestFramework :
+    pip install django 
+    pip install djangorestframework ( define API views, serializers, and URL mappings to create CRUD)
+    pip install django-cors-headers (apps can access to the api from different domains)
+    pip install psycopg2 (connect to a PostgreSQL database and interact with it using Python code)
+
+------------------------------------------------------------
+
+--------------------------- Start ---------------------------
+
+django-admin startproject Django_API  (build project)
+python Django_API/manage.py runserver (run project)
+Browser : http://127.0.0.1:8000/
+python Django_API/manage.py startapp Student (create app)
+modify Django_API/Django_API/settings.py (view comment lines)
+create models : Student/models.py (tables to be created in the db)
+open pgdmin and create a database
