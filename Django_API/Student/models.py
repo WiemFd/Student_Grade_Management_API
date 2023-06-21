@@ -3,7 +3,7 @@ from django.db import models
 # Create your models here.
 
 class Students(models.Model):
-    StudentID = models.AutoField(primary_key=True)
+    StudentID = models.IntegerField(primary_key=True)
     FirstName = models.CharField(max_length=50)
     LastName = models.CharField(max_length=50)
     DateOfBirth = models.DateField()
@@ -11,7 +11,7 @@ class Students(models.Model):
         return f"{self.FirstName} {self.LastName}"
 
 class Subjects(models.Model):
-    SubjectID = models.AutoField(primary_key=True)
+    SubjectID = models.IntegerField(primary_key=True)
     Name = models.CharField(max_length=50)
     Coefficient = models.IntegerField()
     def __str__(self):
