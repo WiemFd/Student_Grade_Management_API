@@ -16,4 +16,4 @@ class Subjects(models.Model):
 class Grades(models.Model):
     Student = models.ForeignKey (Students, on_delete=models.CASCADE)
     Subject = models.ForeignKey(Subjects, on_delete=models.CASCADE)
-    Value = models.DecimalField(max_digits=5, decimal_places=2)
+    Value = models.DecimalField(max_digits=4, decimal_places=2)
