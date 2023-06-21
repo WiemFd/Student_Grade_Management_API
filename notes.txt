@@ -4,6 +4,9 @@ install postman
 install python
 install Postgresql
 create github repository
+git branch master
+git checkout master
+git branch --list 
 
 create virtual env : 
     python -m venv v_env  
@@ -25,4 +28,10 @@ Browser : http://127.0.0.1:8000/
 python Django_API/manage.py startapp Student (create app)
 modify Django_API/Django_API/settings.py (view comment lines)
 create models : Student/models.py (tables to be created in the db)
-open pgdmin and create a database
+open pgdmin : create a server and a database
+modify the database settings in Django_API/Django_API/settings.py
+make migrations for the models : python Django_API\manage.py makemigrations Student
+a file named 0001_initial.py will be created.
+push the changes on the db : python Django_API\manage.py mmigrate Student
+select query tool in pgadmin4 and try : select * from public."Student_students" or any other table that was created 
+run => empty tables
