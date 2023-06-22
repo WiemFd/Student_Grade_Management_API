@@ -1,4 +1,4 @@
----------------------prerequisites---------------------
+------------------------------------------------------------prerequisites--------------------------------------------------
 
 install postman
 install python
@@ -18,9 +18,9 @@ install django and django RestFramework :
     pip install django-cors-headers (apps can access to the api from different domains)
     pip install psycopg2 (connect to a PostgreSQL database and interact with it using Python code)
 
-------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
 
---------------------------- Start ---------------------------
+------------------------------------------- Start Django Project -------------------------------------------------------
 
 django-admin startproject Django_API  (build project)
 
@@ -66,4 +66,29 @@ add urls.py to the main urls.py in the Django_API
 
 run the server : python Django_API\manage.py runserver
 
-open postman for testing the CRUD : http://127.0.0.1:8000/student 
+------------------------------------------------------- Postman -------------------------------------------------------------
+
+open postman for testing the CRUD : http://127.0.0.1:8000/student , to delete http://127.0.0.1:8000/student/id
+
+same for the subject and grade CRUDs (/subject, /grade)
+-----------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------ Unit testing ---------------------------------------------------------
+
+pip install pytest-django pytest
+
+delete Student/tests.py
+
+create pytest.ini file , path: \Student_Grade_Management_REST_API\Django_API\pytest.ini
+
+create test folder, path: Student\tests 
+
+create new file \Student\tests\__init__.py
+
+create \Student\tests\conftest.py to create fixtures 
+
+create new file \Student\tests\test_student_crud.py 
+
+cd Student_Grade_Management_REST_API\Django_API 
+
+use this command to run the test file : pytest

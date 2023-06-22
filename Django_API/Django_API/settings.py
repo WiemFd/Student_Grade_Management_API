@@ -42,7 +42,10 @@ INSTALLED_APPS = [
     'Student.apps.StudentConfig'  # Add my student app
 ]
 
-CORS_ORIGIN_ALLOW_ALL = True # enable all domaine to access to the api
+ # enable react app to access to my rest api
+CORS_ALLOWED_ORIGINS = ["http://localhost:3000"]  
+CORS_ALLOW_CREDENTIALS = True
+
 
 MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware', # Add cors headers middleware
