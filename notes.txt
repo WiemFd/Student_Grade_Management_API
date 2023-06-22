@@ -96,3 +96,16 @@ create new file \Student\tests\test_grade_crud.py
 cd Student_Grade_Management_REST_API\Django_API 
 
 use this command to run the test file : pytest 
+
+--------------------------------------- Github pipeline ---------------------------------------
+
+go to actions 
+
+select django pipeline
+
+modify the file and add build and unit test 
+
+check if the pipeline was successfully executed 
+
+------------------------------------------------------------------------------------------------
+----------------------------------------- the end ---------------------------------------------- 
