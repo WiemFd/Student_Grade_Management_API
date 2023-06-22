@@ -18,6 +18,7 @@ class Subjects(models.Model):
         return self.Name
 
 class Grades(models.Model):
+    GradeID = models.AutoField(primary_key=True)
     Student = models.ForeignKey(Students, on_delete=models.CASCADE)
     Subject = models.ForeignKey(Subjects, on_delete=models.CASCADE)
     Value = models.DecimalField(max_digits=4, decimal_places=2)

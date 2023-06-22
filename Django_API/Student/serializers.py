@@ -14,4 +14,4 @@ class SubjectsSerializer(serializers.ModelSerializer):
 class GradesSerializer(serializers.ModelSerializer):
     class Meta:
         model=Grades
-        fields=('id','Value','Student_id','Subject_id')
+        fields=('GradeID','Value','Student_id','Subject_id')
