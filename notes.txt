@@ -85,10 +85,14 @@ create test folder, path: Student\tests
 
 create new file \Student\tests\__init__.py
 
-create \Student\tests\conftest.py to create fixtures 
+create \Student\tests\conftest.py to define fixtures (APIClient)
 
 create new file \Student\tests\test_student_crud.py 
 
+create new file \Student\tests\test_subject_crud.py 
+
+create new file \Student\tests\test_grade_crud.py 
+
 cd Student_Grade_Management_REST_API\Django_API 
 
-use this command to run the test file : pytest
+use this command to run the test file : pytest 
