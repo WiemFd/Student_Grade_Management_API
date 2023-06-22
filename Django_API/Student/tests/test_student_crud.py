@@ -6,7 +6,7 @@ from Student.models import Students
 ############################################ Get test - read ###########################################
 @pytest.mark.django_db
 def test_student_api_get(client):
-    response = client.get(reverse('studentAPI'))
+    response = client.get(reverse('studentAPI')) # url name in Student.urls
     assert response.status_code == status.HTTP_200_OK
     assert len(response.json()) == Students.objects.count()
 
