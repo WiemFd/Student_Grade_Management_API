@@ -54,11 +54,11 @@ python manage.py runserver
 
 #### Demo : Video 2
 
-[![Alt text](https://mega.nz/file/nBUADDCB#gmwUsDWAjyvx5PBs3Na3Duusl3btCIdwV-QE6NJ9D3Q)](https://mega.nz/file/nBUADDCB#gmwUsDWAjyvx5PBs3Na3Duusl3btCIdwV-QE6NJ9D3Q)
+[![Alt text](https://github.com/WiemFd/Student_Grade_Management_REST_API/assets/128514665/75d712b6-ce60-422e-a709-e15fcbff7462)](https://mega.nz/file/nBUADDCB#gmwUsDWAjyvx5PBs3Na3Duusl3btCIdwV-QE6NJ9D3Q)
 
 #### Demo : Video 3
 
-[![Alt text](https://mega.nz/file/LRdVDJLb#QMBf8kVdtU2uwHV4iwSL-bZ5pc7n-2v4fWWaIT-nyYY)](https://mega.nz/file/Pd0gnRbY#1NFMi0uoFe3gzUH4E68pnmkQbk8SStxbORH6ZkwHSyg)
+[![Alt text](https://github.com/WiemFd/Student_Grade_Management_REST_API/assets/128514665/1f22aacd-dd2a-4674-902f-7e8b4d26a1f9)](https://mega.nz/file/Pd0gnRbY#1NFMi0uoFe3gzUH4E68pnmkQbk8SStxbORH6ZkwHSyg)
 
 ### For more details open "notes.txt".
 
