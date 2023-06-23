@@ -46,7 +46,8 @@ cd Django_API
 ```
 python manage.py runserver
 ```
-### 5. Unit test by pytest and pytest-django 
+### 5. Unit test using pytest 
+
 <div align="center">
 <img src="https://github.com/WiemFd/Student_Grade_Management_REST_API/assets/128514665/6057e453-0ba4-47c2-bd95-155989deb0d6.png">
 </div>
