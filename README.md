@@ -50,7 +50,7 @@ python manage.py runserver
 
 #### Demo : Video 1
 
-[![Alt text](https://mega.nz/file/KRcGSKwR#Cd-PIa_9L0_Oj3CMpO383NHWcWObRR_L-lePz-XnBwM)](https://mega.nz/file/3UEEgAoI#2qilq0fVa7ZXLL2rY4w4AAl9nhaqRJCwwbZrU60NKOo)
+[![Alt text](https://github.com/WiemFd/Student_Grade_Management_REST_API/assets/128514665/3cd3d03a-01cd-479e-a2fb-50f6ee57d868)](https://mega.nz/file/3UEEgAoI#2qilq0fVa7ZXLL2rY4w4AAl9nhaqRJCwwbZrU60NKOo)
 
 #### Demo : Video 2
 
