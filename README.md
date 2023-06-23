@@ -1,6 +1,6 @@
 # Student_Grade_Management_API
 
-### The Student Grade Management API is a web application built using Django and the Django Rest Framework. It provides solution for managing student grades, subjects and related information. The application allows users to perform CRUD (Create, Read, Update, Delete) operations on students, subjects and grades.
+#### The Student Grade Management API is a web application built using Django and the Django Rest Framework. It provides solution for managing student grades, subjects and related information. The application allows users to perform CRUD (Create, Read, Update, Delete) operations on students, subjects and grades.
 
 ### 1. Create a virtual environment
 Open a terminal window and navigate to the directory where you want to create the virtual environment:
@@ -45,8 +45,13 @@ cd Django_API
 ```
 ```
 python manage.py runserver
-``` 
-### 5. Test with Postman and Create a CI pipeline using Github 
+```
+### 5. Unit test by pytest and pytest-django 
+<div align="center">
+<img src="https://github.com/WiemFd/Student_Grade_Management_REST_API/assets/128514665/6057e453-0ba4-47c2-bd95-155989deb0d6.png" width="700" height="350">
+</div>
+
+### 6. Test with Postman and Create a CI pipeline using Github 
 
 #### Demo : Video 1
 
@@ -60,7 +65,7 @@ python manage.py runserver
 
 [![Alt text](https://github.com/WiemFd/Student_Grade_Management_REST_API/assets/128514665/1f22aacd-dd2a-4674-902f-7e8b4d26a1f9)](https://mega.nz/file/Pd0gnRbY#1NFMi0uoFe3gzUH4E68pnmkQbk8SStxbORH6ZkwHSyg)
 
-### For more details open "notes.txt".
+#### For more details open "notes.txt".
 
 
  
