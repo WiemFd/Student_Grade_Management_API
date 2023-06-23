@@ -1,6 +1,6 @@
 # Student_Grade_Management_API
 
-## The Student Grade Management API is a web application built using Django and the Django Rest Framework. It provides solution for managing student grades, subjects and related information. The application allows users to perform CRUD (Create, Read, Update, Delete) operations on students, subjects and grades.
+### The Student Grade Management API is a web application built using Django and the Django Rest Framework. It provides solution for managing student grades, subjects and related information. The application allows users to perform CRUD (Create, Read, Update, Delete) operations on students, subjects and grades.
 
 ### 1. Create a virtual environment
 Open a terminal window and navigate to the directory where you want to create the virtual environment:
@@ -50,17 +50,20 @@ python manage.py runserver
 
 #### Demo : Video 1
 
-[![Alt text](https://skazkin.su/wp-content/uploads/2020/12/499-4996069_postman-logo-circle-hd-png-download.png)](https://mega.nz/file/3UEEgAoI#2qilq0fVa7ZXLL2rY4w4AAl9nhaqRJCwwbZrU60NKOo)
+[![Alt text](https://mega.nz/file/KRcGSKwR#Cd-PIa_9L0_Oj3CMpO383NHWcWObRR_L-lePz-XnBwM)]
+(https://mega.nz/file/3UEEgAoI#2qilq0fVa7ZXLL2rY4w4AAl9nhaqRJCwwbZrU60NKOo)
 
 #### Demo : Video 2
 
-[![Alt text](https://skazkin.su/wp-content/uploads/2020/12/499-4996069_postman-logo-circle-hd-png-download.png)](https://mega.nz/file/3UEEgAoI#2qilq0fVa7ZXLL2rY4w4AAl9nhaqRJCwwbZrU60NKOo)
+[![Alt text](https://mega.nz/file/nBUADDCB#gmwUsDWAjyvx5PBs3Na3Duusl3btCIdwV-QE6NJ9D3Q)]
+(https://mega.nz/file/nBUADDCB#gmwUsDWAjyvx5PBs3Na3Duusl3btCIdwV-QE6NJ9D3Q))
 
 #### Demo : Video 3
 
-[![Alt text](https://skazkin.su/wp-content/uploads/2020/12/499-4996069_postman-logo-circle-hd-png-download.png)](https://mega.nz/file/3UEEgAoI#2qilq0fVa7ZXLL2rY4w4AAl9nhaqRJCwwbZrU60NKOo)
+[![Alt text](https://mega.nz/file/LRdVDJLb#QMBf8kVdtU2uwHV4iwSL-bZ5pc7n-2v4fWWaIT-nyYY)]
+(https://mega.nz/file/Pd0gnRbY#1NFMi0uoFe3gzUH4E68pnmkQbk8SStxbORH6ZkwHSyg)
 
-### For more details open "notes.txt" .
+### For more details open "notes.txt".
 
 
  
