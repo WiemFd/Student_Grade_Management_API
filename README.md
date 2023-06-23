@@ -56,9 +56,9 @@ python manage.py runserver
 
 [Demo: Video 1](https://mega.nz/file/3UEEgAoI#2qilq0fVa7ZXLL2rY4w4AAl9nhaqRJCwwbZrU60NKOo)
 
-[Demo: Video 2](https://mega.nz/file/nBUADDCB#gmwUsDWAjyvx5PBs3Na3Duusl3btCIdwV-QE6NJ9D3Q)
+[Demo: Video 2](https://mega.nz/file/ycsAgTDK#OlOgZ-fBdMlw2iYUbOV83gVqDejBQiXsKXf3N-SRw2U)
 
-[Demo: Video 1](https://mega.nz/file/Pd0gnRbY#1NFMi0uoFe3gzUH4E68pnmkQbk8SStxbORH6ZkwHSyg)
+[Demo: Video 3](https://mega.nz/file/Pd0gnRbY#1NFMi0uoFe3gzUH4E68pnmkQbk8SStxbORH6ZkwHSyg)
 
 #### For more details open "notes.txt".
 
