@@ -46,7 +46,7 @@ cd Django_API
 ```
 python manage.py runserver
 ``` 
-### 5. Test with Postman and Create and test the CI pipeline with Github 
+### 5. Test with Postman and Create a CI pipeline using Github 
 
 #### Demo : Video 1
 
