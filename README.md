@@ -50,18 +50,15 @@ python manage.py runserver
 
 #### Demo : Video 1
 
-[![Alt text](https://mega.nz/file/KRcGSKwR#Cd-PIa_9L0_Oj3CMpO383NHWcWObRR_L-lePz-XnBwM)]
-(https://mega.nz/file/3UEEgAoI#2qilq0fVa7ZXLL2rY4w4AAl9nhaqRJCwwbZrU60NKOo)
+[![Alt text](https://mega.nz/file/KRcGSKwR#Cd-PIa_9L0_Oj3CMpO383NHWcWObRR_L-lePz-XnBwM)](https://mega.nz/file/3UEEgAoI#2qilq0fVa7ZXLL2rY4w4AAl9nhaqRJCwwbZrU60NKOo)
 
 #### Demo : Video 2
 
-[![Alt text](https://mega.nz/file/nBUADDCB#gmwUsDWAjyvx5PBs3Na3Duusl3btCIdwV-QE6NJ9D3Q)]
-(https://mega.nz/file/nBUADDCB#gmwUsDWAjyvx5PBs3Na3Duusl3btCIdwV-QE6NJ9D3Q))
+[![Alt text](https://mega.nz/file/nBUADDCB#gmwUsDWAjyvx5PBs3Na3Duusl3btCIdwV-QE6NJ9D3Q)](https://mega.nz/file/nBUADDCB#gmwUsDWAjyvx5PBs3Na3Duusl3btCIdwV-QE6NJ9D3Q)
 
 #### Demo : Video 3
 
-[![Alt text](https://mega.nz/file/LRdVDJLb#QMBf8kVdtU2uwHV4iwSL-bZ5pc7n-2v4fWWaIT-nyYY)]
-(https://mega.nz/file/Pd0gnRbY#1NFMi0uoFe3gzUH4E68pnmkQbk8SStxbORH6ZkwHSyg)
+[![Alt text](https://mega.nz/file/LRdVDJLb#QMBf8kVdtU2uwHV4iwSL-bZ5pc7n-2v4fWWaIT-nyYY)](https://mega.nz/file/Pd0gnRbY#1NFMi0uoFe3gzUH4E68pnmkQbk8SStxbORH6ZkwHSyg)
 
 ### For more details open "notes.txt".
 
